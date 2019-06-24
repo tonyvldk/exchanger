@@ -118,7 +118,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Z3T-Ga-sSt" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="296.80000000000001" y="243.32833583208398"/>
+            <point key="canvasLocation" x="358" y="243"/>
         </scene>
         <!--First currency-->
         <scene sceneID="gtF-FU-Oen">
@@ -179,7 +179,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3GZ-Wt-w3K" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2030" y="243"/>
+            <point key="canvasLocation" x="2070" y="243"/>
         </scene>
     </scenes>
 </document>
