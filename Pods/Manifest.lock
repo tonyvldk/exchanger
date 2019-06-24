@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.8.2)
+  - MarqueeLabel (4.0.0)
+  - NotificationBannerSwift (2.2.2):
+    - MarqueeLabel (~> 4.0.0)
+    - SnapKit (~> 5.0.0)
+  - Realm (3.16.2):
+    - Realm/Headers (= 3.16.2)
+  - Realm/Headers (3.16.2)
+  - RealmSwift (3.16.2):
+    - Realm (= 3.16.2)
+  - SnapKit (5.0.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - NotificationBannerSwift
+  - RealmSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - MarqueeLabel
+    - NotificationBannerSwift
+    - Realm
+    - RealmSwift
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  MarqueeLabel: b55b26e690b6ad41faedd95cbf5eae6f1d1735b4
+  NotificationBannerSwift: 2d46cc1b4a0ebf4372baef383f2a2ca82bf0c235
+  Realm: 0e73b4edeb5b6a90da3d83206883b2e34e00eb38
+  RealmSwift: a81e650171ef0a5f999df1ed8d39ba8d6fce88a4
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 72595cb4ce35a3c7642bff655ad66aa9489f0862
+
+COCOAPODS: 1.6.0
